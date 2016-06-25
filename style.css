@@ -1,5 +1,6 @@
-body   {padding: 0;
-		margin: 0;}
+body{
+	padding: 0;
+	margin: 0;}
 #wrapper{	background:#C4C4C4;
 			padding: 5px 0px 20px 0px;
 			}		
@@ -9,12 +10,13 @@ body   {padding: 0;
 		width: 400px;
 		padding: 50px; 
 		-webkit-box-shadow: -2px 3px 5px 0px rgba(0,0,0,0.81);
--moz-box-shadow: -2px 3px 5px 0px rgba(0,0,0,0.81);
-box-shadow: -2px 3px 5px 0px rgba(0,0,0,0.81);
+		-moz-box-shadow: -2px 3px 5px 0px rgba(0,0,0,0.81);
+		box-shadow: -2px 3px 5px 0px rgba(0,0,0,0.81);
 		}
 .center {text-align: center;}
 #avatar {width: 150px;}
-.mainphoto {width: 150px;
+.mainphoto {
+			width: 150px;
 			margin: auto;
 			}
 ul {padding-left: 16px;}
