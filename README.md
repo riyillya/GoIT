@@ -1,2 +1,0 @@
-# GoIT
-second
