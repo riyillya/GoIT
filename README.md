@@ -1,3 +1,0 @@
-# GoIT
-GoIT
- 
