@@ -39,7 +39,7 @@ header {
 	box-sizing: border-box;
 	border-left: 1px solid #dbdbdb;
 	border-right: 1px solid #dbdbdb;
-	box-shadow: 0 0 5px rgba(0,0,0,.3);
+	box-shadow: 0 -1px 5px rgba(0,0,0,.3);
 	}
 
 .top-menu {	
