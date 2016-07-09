@@ -8,10 +8,6 @@
 		font: 13px Arial;
 		}
 
-	li {	
-
-		}
-
 	.wrapper {
 		margin: auto;
 		width: 1000px;
@@ -25,7 +21,6 @@
 		display: block;
 		}
 
-
 	 h1,h2 {
 		float: right;	
 		margin: 0 25px;
@@ -36,9 +31,14 @@
 		width: 150px;
 		}
 
-	h1 {font-weight: bold;
-		margin-top: 10px; }
-	h2 { clear: both;  }
+	h1 {
+		font-weight: bold;
+		margin-top: 10px; 
+		}
+
+	h2 { 
+		clear: both;  
+		}
 
 	.flags {
 		clear: both;
@@ -46,7 +46,7 @@
 		margin: 0px 25px;
 	 	}
 
-	.flags>li {
+	.flags li {
 		display: inline-block;
 		width: 60px;
 		margin-top: 25px;
@@ -55,7 +55,7 @@
 		text-align: center;
 		}
 
-	.flags>li>a {
+	.flags li a {
 		color: #61bbd4;
 		}
 
@@ -131,7 +131,7 @@
 	    top: 50%;
 	    border: 3px solid transparent;
 	    border-top: 6px solid #fff;
-	}
+		}
 
 	ul.submenu {
 	    display: none;
@@ -140,7 +140,6 @@
 	    top: 31px;
 	    left: 20px;
 	    background-color: white;
-
 		}
 
 	ul.submenu > li {
